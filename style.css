@@ -1,0 +1,15 @@
+*{ background-color: darkgreen;    
+    background-size: cover;
+color: black;
+}
+
+.container{ 
+        width: 2500px ; 
+        margin: 100px ;
+        padding: 0 ;
+    }
+
+    .texto{ 
+
+    text-align: center; 
+     text-shadow: 6px 6px 6px  ; }
